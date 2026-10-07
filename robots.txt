@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://agustinazorin.github.io/Verano-web/sitemap.xml
+Sitemap: https://verano-web.vercel.app/sitemap.xml
